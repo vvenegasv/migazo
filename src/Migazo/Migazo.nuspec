@@ -13,6 +13,6 @@
     <description>$description$</description>
     <releaseNotes>New method as wraper to @Url.Contet that enables put file version in url. Util to have a clean cache</releaseNotes>
     <copyright>Copyright © Edenred Chile 2017</copyright>
-    <tags>Tag1 Tag2</tags>
+    <tags>MvcHelper MVC</tags>
   </metadata>
 </package>

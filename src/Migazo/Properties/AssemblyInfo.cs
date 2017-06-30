@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Migazo")]
 [assembly: AssemblyDescription("Project for MVC helpers and extensions")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Edenred")]
+[assembly: AssemblyCompany("Vladimir Venegas")]
 [assembly: AssemblyProduct("Migazo")]
-[assembly: AssemblyCopyright("Copyright ©Edenred Chile 2017")]
+[assembly: AssemblyCopyright("Copyright ©Vladimir Venegas")]
 [assembly: AssemblyTrademark("Migazo")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // Puede especificar todos los valores o usar los valores predeterminados de número de compilación y de revisión 
 // mediante el carácter '*', como se muestra a continuación:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.1.0")]
+[assembly: AssemblyFileVersion("1.0.1.0")]

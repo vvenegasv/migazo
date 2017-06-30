@@ -6,13 +6,13 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <licenseUrl>https://github.com/vvenegasv/migazo/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/vvenegasv/migazo</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/vvenegasv/migazo/master/third-party/logo.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>New method as wraper to @Url.Contet that enables put file version in url. Util to have a clean cache</releaseNotes>
-    <copyright>Copyright © Edenred Chile 2017</copyright>
+    <copyright>Copyright © Vladimir Venegas 2017</copyright>
     <tags>MvcHelper MVC</tags>
   </metadata>
 </package>
